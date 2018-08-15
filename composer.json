@@ -1,0 +1,17 @@
+{
+    "name": "root/excel-to-wp",
+    "description": "Plugin for Capomondo",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "nazlideniz",
+            "email": "uzuner.nazlideniz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {"Inc\\": "./inc"}
+    }
+}
